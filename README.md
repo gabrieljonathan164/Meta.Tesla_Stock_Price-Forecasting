@@ -4,4 +4,4 @@ This research uses an LSTM neural network model to forecast future stock prices.
 
 Data preparation, model definition and training, evaluation, and final predictions are all covered in the notebook. RMSE, MAE, and R2 scores are among the performance indicators computed.
 
-- The result is a CSV file containing the original test set prices as well as the forecasted values for those time steps.
+- The result is a CSV file containing the original test set prices as well as the forecasted values for those time steps for both META and TSLA.
