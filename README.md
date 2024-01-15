@@ -1,4 +1,4 @@
-# Stock_Price-Prediction
+# META and TSLA Stock Price Forecasting Model (LSTM)
 
 This research uses an LSTM neural network model to forecast future stock prices. Historical closing prices are utilized to train the model to comprehend time series patterns and seasonality.
 
